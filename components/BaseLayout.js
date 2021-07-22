@@ -12,9 +12,10 @@ const Layout = (props) => (
 
         {props.children}
 
-        <style jsx>{`
+        <style jsx global>{`
          
-               * {
+               body {
+                 background-color: #f5f5f5;  
                  margin: 0;       
                  font-family: 'Catamaran', sans-serif;
                  }

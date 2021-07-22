@@ -5,12 +5,12 @@ const about = () => (
     <Layout>
         <h1>About Ikhsan N. Huda</h1>
         <p>(sometimes my friend call me "Sans")</p>
-        <p>Ikhsan is a Junior User Experience Engineer based in Bandung, Indonesia.
+        <p id="part2">Ikhsan is a Junior User Experience Engineer based in Bandung, Indonesia.
             He graduated from Telkom University majoring in Electronics Engineer.
             <br></br>
             
             With his experience in the <b><a href="https://uxid.org/" target="_blank">UXiD Community</a></b> as a Coordinator of Human Resource for 1 years, 
-            He particulary interested in web technologies,<br></br> user experience. He has a passion in digital
+            He particulary interested in web technologies, user experience.<br></br> He has a passion in digital
             experience and innovative technologies.
             <br></br>
             
@@ -23,10 +23,14 @@ const about = () => (
         
 
         <style jsx>{`
+        #part2 {
+            font-size:32px;
+        }
         a {
           color: black;  
         }
          h1 {
+             font-size:45px;
             margin-left: 15%;
             margin-top : 5%;
          }
@@ -38,7 +42,9 @@ const about = () => (
         }
 
         @media only screen and (max-width:600px){
-
+            #part2 {
+                font-size:150%;
+            }
             h1 { 
                 margin-top:50px;
             }
@@ -48,9 +54,6 @@ const about = () => (
                 text-align: justify center;
             }
         }
-
-        
-        
         `}</style>
     </Layout>
 )
