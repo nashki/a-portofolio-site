@@ -2,17 +2,19 @@ import Link from 'next/link'
 
 const Navigation = () => (
     <div>
-        <Link href="/">home</Link> |
-        <Link href="/about">about</Link> | 
-        <Link href="/work">works</Link> |
-        <Link href="/books">books</Link> |
-        <Link href="/techdocs">technical documentation</Link>
+        <a href="/">home </a> /  
+        <a href="/about">about</a> /   
+        <a href="/case">case studies</a> /   
+        <a href="/books">books</a> /    
+        <a href="/techdocs">article</a>
     
     <style jsx>{`
-     {
+        {
+        padding-right: 20px;
         text-align:right;
         color: black;   
-     }
+        text-decoration: none;
+    }
 
     `}</style>
 

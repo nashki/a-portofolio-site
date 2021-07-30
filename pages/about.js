@@ -5,19 +5,16 @@ const about = () => (
     <Layout>
         <h1>About Ikhsan N. Huda</h1>
         <p>(sometimes my friend call me "Sans")</p>
-        <p id="part2">Ikhsan is a Junior User Experience Engineer based in Bandung, Indonesia.
+        <p id="part2">Ikhsan is a Developer based in Bandung, Indonesia.
             He graduated from Telkom University majoring in Electronics Engineer.
             <br></br>
-            
             With his experience in the <b><a href="https://uxid.org/" target="_blank">UXiD Community</a></b> as a Coordinator of Human Resource for 1 years, 
-            He particulary interested in web technologies, user experience.<br></br> He has a passion in digital
-            experience and innovative technologies.
-            <br></br>
-            
-            Currently helping by building a simple website for micro-business. 
+            He particulary interested in web technologies, user experience. He has a passion in digital
+            experience.
             <br></br>
             <br></br>
-
+            Currently helping <b><a href='/case' target='_blank'> micro-business </a></b> by building a usefull website. 
+            <br></br>
             Have anything in mind to collaborate profesionally ? Ping him on<b> <a href="mailto:ikhsannurhuda25@gmail.com" target="_blank">email</a></b> ! :)
         </p>
         
@@ -30,7 +27,7 @@ const about = () => (
           color: black;  
         }
          h1 {
-             font-size:45px;
+            font-size:45px;
             margin-left: 15%;
             margin-top : 5%;
          }
