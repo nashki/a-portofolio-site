@@ -1,12 +1,19 @@
 import Layout from '../components/BaseLayout'
+
 const Index = () => (
   
     <Layout>
+
       <h1>Ikhsan N. Huda </h1> 
-      
-     
+      <div className="calendly-inline-widget" data-url="https://calendly.com/ikhsannhuda/?hide_event_type_details=1"></div>  
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
       
       <style jsx>{`
+      .calendly-inline-widget {
+        margin: 0 auto;
+        width : 500px;
+        height: 500px;
+      }
       h1 
       {
         text-align  : center;
