@@ -4,7 +4,7 @@ import Head from 'next/head'
 const Layout = (props) => (
     <div>
         <Head>
-            <title>Portofolio Site - Ikhsan N. Huda</title>
+            <title>Ikhsan N. Huda - Developer</title>
             <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Catamaran|Roboto+Condensed"></link>
         </Head>
 
@@ -12,6 +12,7 @@ const Layout = (props) => (
 
         {props.children}
 
+       
         <style jsx global>{`
          
                body {
