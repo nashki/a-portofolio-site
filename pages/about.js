@@ -7,7 +7,7 @@ const about = () => (
         <p>(sometimes my friend call me "Sans")</p>
         <p id="part2">
             Ikhsan is a Junior User Experience Engineer based in Bandung, Indonesia.
-            He graduated from Telkom University majoring in Electronics Engineer.
+            He graduated from Telkom University majoring in Engineer.
             <br></br>
             With his experience in the <b><a href="https://uxid.org/" target="_blank">UXiD Community</a></b> as a Coordinator of Human Resource for 1 years, 
             He particulary interested in web technologies, user experience. He has a passion in digital experience.
