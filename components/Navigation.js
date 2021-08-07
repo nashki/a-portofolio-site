@@ -4,9 +4,8 @@ const Navigation = () => (
     <div>
         <a href="/">home </a> /  
         <a href="/about">about</a> /   
-        <a href="/case">case studies</a> /   
-        <a href="/books">books</a> /    
-        <a href="/techdocs">article</a>
+        <a href="/case">case studies</a> 
+       
     
     <style jsx>{`
         {

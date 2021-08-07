@@ -39,14 +39,6 @@ const Navigation = () => /*#__PURE__*/(0,jsx_runtime_.jsxs)("div", {
     href: "/case",
     className: "jsx-3287369476",
     children: "case studies"
-  }), " /", /*#__PURE__*/jsx_runtime_.jsx("a", {
-    href: "/books",
-    className: "jsx-3287369476",
-    children: "books"
-  }), " /", /*#__PURE__*/jsx_runtime_.jsx("a", {
-    href: "/techdocs",
-    className: "jsx-3287369476",
-    children: "article"
   }), /*#__PURE__*/jsx_runtime_.jsx((style_default()), {
     id: "3287369476",
     children: [".jsx-3287369476{padding-right:20px;text-align:right;color:black;-webkit-text-decoration:none;text-decoration:none;}"]
@@ -69,7 +61,7 @@ const Layout = props => /*#__PURE__*/(0,jsx_runtime_.jsxs)("div", {
   children: [/*#__PURE__*/(0,jsx_runtime_.jsxs)((head_default()), {
     children: [/*#__PURE__*/jsx_runtime_.jsx("title", {
       className: "jsx-2419687009",
-      children: "Ikhsan N. Huda - Jr. UX Engineer"
+      children: "Ikhsannhuda | Jr. ux engineer"
     }), /*#__PURE__*/jsx_runtime_.jsx("link", {
       rel: "stylesheet",
       href: "https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Catamaran|Roboto+Condensed",
