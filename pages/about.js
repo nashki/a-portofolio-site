@@ -6,7 +6,7 @@ const about = () => (
         <h1>About Ikhsan N. Huda</h1>
         <p>(sometimes my friend call me "Sans")</p>
         <p id="part2">
-            Ikhsan is a Junior User Experience Engineer based in Bandung, Indonesia.
+            Ikhsan is a Junior Frontend Engineer based in Bandung, Indonesia.
             He graduated from Telkom University majoring in Engineer.
             <br></br>
             With his experience in the <b><a href="https://uxid.org/" target="_blank">UXiD Community</a></b> as a Coordinator of Human Resource for 1 years, 

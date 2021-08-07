@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/85oNn0I91ULuDDeeV1qyC/_buildManifest.js",
-    "static/85oNn0I91ULuDDeeV1qyC/_ssgManifest.js"
+    "static/QXyfUJm_9qxiHU_kd6PmC/_buildManifest.js",
+    "static/QXyfUJm_9qxiHU_kd6PmC/_ssgManifest.js"
   ],
   "pages": {
     "/": [
@@ -14,7 +14,7 @@
       "static/chunks/framework-64eb7138163e04c228e4.js",
       "static/chunks/main-a3a79aff3ff232b41814.js",
       "static/chunks/184-90ef84fc69d4fccf976c.js",
-      "static/chunks/pages/index-f98db64278026069d0e7.js"
+      "static/chunks/pages/index-145350e4ab4be9285ee2.js"
     ],
     "/_app": [
       "static/chunks/webpack-672781b4256b347cef75.js",
@@ -33,28 +33,28 @@
       "static/chunks/framework-64eb7138163e04c228e4.js",
       "static/chunks/main-a3a79aff3ff232b41814.js",
       "static/chunks/184-90ef84fc69d4fccf976c.js",
-      "static/chunks/pages/about-455ad39a17edd5572c9c.js"
+      "static/chunks/pages/about-aa4df9290ef0e4249538.js"
     ],
     "/books": [
       "static/chunks/webpack-672781b4256b347cef75.js",
       "static/chunks/framework-64eb7138163e04c228e4.js",
       "static/chunks/main-a3a79aff3ff232b41814.js",
       "static/chunks/184-90ef84fc69d4fccf976c.js",
-      "static/chunks/pages/books-5d65d326aa7dfddeaa8f.js"
+      "static/chunks/pages/books-f0e39814dbd8253f75a8.js"
     ],
     "/case": [
       "static/chunks/webpack-672781b4256b347cef75.js",
       "static/chunks/framework-64eb7138163e04c228e4.js",
       "static/chunks/main-a3a79aff3ff232b41814.js",
       "static/chunks/184-90ef84fc69d4fccf976c.js",
-      "static/chunks/pages/case-81519580492c173488d8.js"
+      "static/chunks/pages/case-2a3d312b999227eff4f9.js"
     ],
     "/techdocs": [
       "static/chunks/webpack-672781b4256b347cef75.js",
       "static/chunks/framework-64eb7138163e04c228e4.js",
       "static/chunks/main-a3a79aff3ff232b41814.js",
       "static/chunks/184-90ef84fc69d4fccf976c.js",
-      "static/chunks/pages/techdocs-3fae2accd20bfb2b90ea.js"
+      "static/chunks/pages/techdocs-368225ff0fcd37d9b21f.js"
     ]
   },
   "ampFirstPages": []

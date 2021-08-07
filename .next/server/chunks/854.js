@@ -61,7 +61,7 @@ const Layout = props => /*#__PURE__*/(0,jsx_runtime_.jsxs)("div", {
   children: [/*#__PURE__*/(0,jsx_runtime_.jsxs)((head_default()), {
     children: [/*#__PURE__*/jsx_runtime_.jsx("title", {
       className: "jsx-2419687009",
-      children: "Ikhsannhuda | Jr. ux engineer"
+      children: "Ikhsannhuda's Site"
     }), /*#__PURE__*/jsx_runtime_.jsx("link", {
       rel: "stylesheet",
       href: "https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Catamaran|Roboto+Condensed",

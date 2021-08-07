@@ -4,7 +4,7 @@ import Head from 'next/head'
 const Layout = (props) => (
     <div>
         <Head>
-            <title>Ikhsannhuda | Jr. ux engineer</title>
+            <title>Ikhsannhuda's Site</title>
             <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Catamaran|Roboto+Condensed"></link>
         </Head>
 
