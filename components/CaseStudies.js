@@ -7,9 +7,9 @@ const CaseStudies = () => (
             <h1>#Roetin Coffee</h1>
               <ul>
                 <li>About: Building Profil Site Roetin Coffee </li>
-                <li> <a target="_blank" href="https://trello.com/b/Yb1b0mvq/membuat-profil-site-roetin-coffee"> Build Process </a> &rarr; </li>
-                <li> <a target="_blank" href="https://nashki.github.io/test"> Link Site </a> &rarr; </li>
                 <li> Technology used : Trello, Github, HTML, CSS, JavaScript and React </li>
+                <li><a target="_blank" href="https://nashki.github.io/roetin-coffee"> Link Site </a> &rarr; </li>
+                                
               </ul>
               
         </div>

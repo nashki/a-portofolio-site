@@ -1,11 +1,11 @@
 {
+  "/about": "pages/about.html",
+  "/books": "pages/books.html",
+  "/case": "pages/case.html",
+  "/": "pages/index.html",
+  "/techdocs": "pages/techdocs.html",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
-  "/": "pages/index.js",
-  "/about": "pages/about.js",
-  "/case": "pages/case.js",
-  "/books": "pages/books.js",
-  "/techdocs": "pages/techdocs.js"
+  "/404": "pages/404.html"
 }
