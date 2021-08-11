@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/QXyfUJm_9qxiHU_kd6PmC/_buildManifest.js",
-    "static/QXyfUJm_9qxiHU_kd6PmC/_ssgManifest.js"
+    "static/k8mscXvHw-hpOmQrQHSMy/_buildManifest.js",
+    "static/k8mscXvHw-hpOmQrQHSMy/_ssgManifest.js"
   ],
   "pages": {
     "/": [
@@ -14,7 +14,7 @@
       "static/chunks/framework-64eb7138163e04c228e4.js",
       "static/chunks/main-a3a79aff3ff232b41814.js",
       "static/chunks/184-90ef84fc69d4fccf976c.js",
-      "static/chunks/pages/index-145350e4ab4be9285ee2.js"
+      "static/chunks/pages/index-d62e271be201a4d619da.js"
     ],
     "/_app": [
       "static/chunks/webpack-672781b4256b347cef75.js",
@@ -33,7 +33,7 @@
       "static/chunks/framework-64eb7138163e04c228e4.js",
       "static/chunks/main-a3a79aff3ff232b41814.js",
       "static/chunks/184-90ef84fc69d4fccf976c.js",
-      "static/chunks/pages/about-aa4df9290ef0e4249538.js"
+      "static/chunks/pages/about-3081272cdbf9b033935c.js"
     ],
     "/books": [
       "static/chunks/webpack-672781b4256b347cef75.js",
