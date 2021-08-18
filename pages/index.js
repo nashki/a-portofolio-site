@@ -1,5 +1,4 @@
 import Layout from '../components/BaseLayout'
-import Head from 'next/head'
 const Index = () => (
   
     <Layout>

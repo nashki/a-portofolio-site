@@ -4,7 +4,7 @@ const Navigation = () => (
     <div>
         <a href="/">home </a> /  
         <a href="/about">about</a> /   
-        <a href="/case">case studies</a> 
+        <a href="/article">article</a> 
        
     
     <style jsx>{`
@@ -13,7 +13,7 @@ const Navigation = () => (
         text-align:right;
         color: black;   
         text-decoration: none;
-    }
+         }
 
     `}</style>
 

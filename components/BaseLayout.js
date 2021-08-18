@@ -16,11 +16,15 @@ const Layout = (props) => (
         <style jsx global>{`
          
                body {
-                 background-color: #f5f5f5;  
-                 margin: 0;       
-                 font-family: 'Catamaran', sans-serif;
+                     background-color: #f5f5f5;  
+                     margin: 0;       
+                     font-family: 'Catamaran', sans-serif;
                  }
-
+                 .texting {
+                     font-size:20px;
+                     text-align: center;
+                     margin-top: 50px;
+                 }
         `}</style>
 
     </div>

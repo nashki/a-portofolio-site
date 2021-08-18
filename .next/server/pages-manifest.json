@@ -1,11 +1,8 @@
 {
-  "/about": "pages/about.html",
-  "/books": "pages/books.html",
-  "/case": "pages/case.html",
-  "/": "pages/index.html",
-  "/techdocs": "pages/techdocs.html",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/article": "pages/article.js",
+  "/about": "pages/about.js",
+  "/": "pages/index.js"
 }
